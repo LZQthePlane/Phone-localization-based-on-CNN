@@ -1,3 +1,8 @@
+'''
+I tried to modify my code for training in tensorflow with eager execution
+Yet it does not work now for my shortness of coding
+'''
+
 import tensorflow as tf
 import numpy as np
 import random

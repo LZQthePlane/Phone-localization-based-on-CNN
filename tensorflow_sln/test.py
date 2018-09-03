@@ -39,7 +39,7 @@ if __name__ == "__main__":
     # load the meta graph and model
     sess = tf_net.start_sess()
     saver = tf.train.import_meta_graph(model_save_path + '.meta')
-    saver.restore(sess, tf.train.latest_checkpoint(model_save_path))
+    saver.restore(sess, model_save_path)
 
     # load the test image
     im = load_test_image()
