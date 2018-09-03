@@ -20,5 +20,4 @@ For test: python test.py
 ## PS
 1. In keras the accuracy reached 99%(train-acc)/91%(test-acc), while in tensorflow accuracy reached at most 91%(train-acc)/90%(test-acc);
 2. file 'tf_net_eager' in tensorflow folder is not completed yet for my shortness of tensorflow-eager-execution
-3. Tried to modify the code of tensorflow-training process by using eager execution, but didn't work yet because of my shortness'
-4. Tried to use autokeras API to auto_machine_learning a model, however a bug I cannot solve raised which I will try when official doc update the information about regression
+3. Tried to use autokeras API to auto_machine_learning a model, however a bug I cannot solve raised which I will try when official doc update the information about regression
