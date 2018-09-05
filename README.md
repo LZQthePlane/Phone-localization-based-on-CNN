@@ -14,7 +14,7 @@ The solution provided by using keras/tensorflow frame
 
 
 ## ***Usage***
-For training: python train.py\n
+For training: python train.py; 
 For test: python test.py
 
 ## ***PS***
