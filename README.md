@@ -1,6 +1,6 @@
 # Find-phone
 A phone localization project based on CNN
-refers to the project provided by [YazhouZhang0709](https://github.com/YazhouZhang0709/Object-detection-and-localization-based-on-CNN)
+refers to the image dataset provided by [YazhouZhang0709](https://github.com/YazhouZhang0709/Object-detection-and-localization-based-on-CNN), thanks to his brilliant work.
 
 ## ***Folder Intro***
 ### —image
